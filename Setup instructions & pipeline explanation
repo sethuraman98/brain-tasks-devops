@@ -55,7 +55,7 @@ Dockerfile used:
 
 ---
 
-## 🌐 Application URL
+## 🌐 Application URL (Final Output)
 
 ```
 http://a70808154209647d79fbbc58b8d6935e-163265015.us-east-1.elb.amazonaws.com/
